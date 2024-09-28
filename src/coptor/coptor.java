@@ -29,7 +29,7 @@ public class coptor {
 				
 				System.out.println("ROFL:ROFL:LO                ");
 				System.out.println("           A            ");
-				System.out.println(" L     /------------                 ");
+				System.out.println(" L     /------------                  ");
 				System.out.println(" OL====         [😁] \\               ");
 				System.out.println(" L    \\               \\     ");
 				System.out.println("       \\______________/  ");
